@@ -1,2 +1,2 @@
 # Rock-You
-Rock you wordlist - https://github.com/josuamarcelc/common-password-list
+Rockyou wordlist - https://weakpass.com/wordlists/rockyou.txt
